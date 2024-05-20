@@ -9,6 +9,7 @@ st.write("## Ready to find awesome colleges you didn't even know existed?")
 st.markdown(
 """
 Just complete the quiz below, wait a minute, and CollegeGPT will set you up on your first blind date!
+Attribution: CollegeGPT is powered by the OpenAI GPT-3.5 Turbo model, with prompt engineering by Holland Henderson-Boyer.
 """
 )
 
