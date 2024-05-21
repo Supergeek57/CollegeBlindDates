@@ -202,7 +202,7 @@ with st.container():
         #        connectors=[{"id": "web-search"}]
         #)
 
-        print(message)
+        #print(message)
         message_dict = {"role": "user", "content": message}
         chat_history.append(message_dict)
 
@@ -212,7 +212,7 @@ with st.container():
         )
 
         answer = response.choices[0].message.content
-        print(answer)
+        #print(answer)
         st.write("CollegeGPT: " + answer)
 
         user_message = {"role": "user", "content": message}
