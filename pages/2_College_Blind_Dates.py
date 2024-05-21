@@ -1,6 +1,10 @@
 import streamlit as st
 import time
 from openai import OpenAI
+import os
+
+os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
+
 client = OpenAI()
 
 st.write("# College Blind Dates")

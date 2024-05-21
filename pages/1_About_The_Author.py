@@ -12,7 +12,8 @@ Hi, I'm Holland! I'm a rising junior at the University of Alabama, studying comp
 
 st.markdown(
 """
-## Connect with me!
+# Connect with me!
+
 - [LinkedIn](https://bit.ly/hrhlnkd)
 - [GitHub](https://github.com/supergeek57)
 - [Email](mailto:hhendersonboyer@gmail.com)
