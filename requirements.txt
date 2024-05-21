@@ -1,0 +1,4 @@
+streamlit  # Specify Streamlit version to avoid conflicts
+
+# OpenAI
+openai
